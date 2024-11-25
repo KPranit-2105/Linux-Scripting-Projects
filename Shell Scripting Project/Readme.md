@@ -1,4 +1,4 @@
-### Shell Script For User Management And Backup in Linux
+# Shell Script For User Management And Backup in Linux
 To execute the project "Shell Script for User Management and Backup in Linux," you need to design a shell script that automates tasks related to user management (creating, deleting, modifying users) and backups of important files or directories. Here’s a step-by-step guide on how to approach this project:
 
 ### Step 1: Understand the Requirements
